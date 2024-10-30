@@ -49,8 +49,8 @@ export default function App() {
     const projects = [
         {
             id: 1,
-            title: 'Project 1',
-            description: 'A brief description of Project 1',
+            title: 'KanuniAfya Pharmacy',
+            description: 'Local pharmacy website',
         },
         {
             id: 2,
